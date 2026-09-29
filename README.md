@@ -38,6 +38,14 @@ Toplanan lead bilgileri işletme sahibi tarafından dashboard üzerinden görün
 - GitHub
 - Render
 
+## Proje Durumu
+
+Proje şu anda geliştirme aşamasındadır.
+
+Şu ana kadar proje klasör yapısı oluşturulmuş, Python sanal ortamı hazırlanmış, gerekli bağımlılıklar kurulmuş, Flask ortamının çalıştığı smoke test ile doğrulanmış ve proje GitHub repository'sine aktarılmıştır.
+
+Geliştirme sürecinde uygulama yapılandırması, veritabanı, yapay zekâ servisi, API endpointleri, backend testleri, Wix frontend entegrasyonu ve Render deployment adımları tamamlanacaktır.
+
 ## Proje Mimarisi
 
 ```text
