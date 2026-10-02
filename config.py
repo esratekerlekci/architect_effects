@@ -41,7 +41,7 @@ class Config:
 
     GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
     AI_PROVIDER = os.environ.get("AI_PROVIDER", "groq")
-    AI_MODEL = os.environ.get("AI_MODEL", "llama-3.1-8b-instant")
+    AI_MODEL = os.environ.get("AI_MODEL", "openai/gpt-oss-20b")
 
     BUSINESS_CONTEXT = os.environ.get("BUSINESS_CONTEXT", VARSAYILAN_BUSINESS_CONTEXT)
 
